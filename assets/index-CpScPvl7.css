@@ -1,0 +1,1 @@
+.Carousel{overflow:hidden;margin:0 auto}.Carousel__list{display:flex;padding:0;margin:0;list-style:none}.Carousel__item{flex-shrink:0}.Carousel__item img{display:block;object-fit:cover}.Carousel__controls{display:flex;justify-content:space-between;margin-top:16px}
